@@ -1,0 +1,6 @@
+gui.o
+web_server.o
+system_server.o
+main.o
+input.o
+toy_system

@@ -31,7 +31,7 @@ input.o: $(UI)/input.h $(UI)/input.c
 	$(CC) -g $(DIR) -c $(UI)/input.c
 
 clean:
-	rm -rf *.o
+	rm -rf *.o $(TARGET)
 
 
 
