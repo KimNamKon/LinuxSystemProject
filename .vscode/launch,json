@@ -1,0 +1,17 @@
+{
+    "configurations": [
+    {
+        "name": "(GDB) Debugging",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/toy_system",
+        "args": [],
+        "stopAtEntry": true,
+        "cwd": "${fileDirname}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb"
+       
+    }
+    ]
+}
